@@ -1,0 +1,9 @@
+Origin: ehrepo
+Label: ehrepo - Rootful Sunshine
+Suite: stable
+Version: 1.0
+Codename: rootful-sunshine
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: Rootful iOS Jailbreak Theme - Sunshine Glow Effects
+Maintainer: NotJoshxops <blahyoutun@gmail.com>
